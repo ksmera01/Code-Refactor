@@ -1,4 +1,4 @@
-# Homework-1
+# Code-Refactor
 First homework assignment for HTML-Git-Css
 
 HTML Updates: 
@@ -22,3 +22,5 @@ CSS Updates:
 6. Consolidated classes benefit-lead h3, benefit-brand h3 and benefit cost h3 into h3. These elements shared the same properties.
 7. Consolidated classes benefit-lead img, benefit-brand img and benefit-cost img into benefit-sub img since hese elements had the same properties as well. 
 8. Footer class no longer needed with footer tag in html
+
+Link: https://ksmera01.github.io/Code-Refactor/
