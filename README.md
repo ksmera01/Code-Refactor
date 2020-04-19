@@ -1,5 +1,11 @@
 # Code-Refactor
-First homework assignment for HTML-Git-Css
+
+1) Goals and Methods
+- Using HTML and CSS, I have refactored a website to clean up the HTML and CSS. With these changes, the code reads alot cleaner along with a small boost in performance.
+
+2) Technologies
+- HTML
+- CSS
 
 HTML Updates: 
 1. Updated title to from website to Horiseon Refactoring
@@ -23,4 +29,12 @@ CSS Updates:
 7. Consolidated classes benefit-lead img, benefit-brand img and benefit-cost img into benefit-sub img since hese elements had the same properties as well. 
 8. Footer class no longer needed with footer tag in html
 
+3) Installation:
+- None required
+
 Link: https://ksmera01.github.io/Code-Refactor/
+
+Please see screenshots below of the deployed site: 
+![Image description](./images/horiseon1)
+
+![Image description](./images/horiseon2)
