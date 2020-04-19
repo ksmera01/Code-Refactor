@@ -34,7 +34,8 @@ CSS Updates:
 
 Link: https://ksmera01.github.io/Code-Refactor/
 
-Please see screenshots below of the deployed site: 
-![Image description](./images/horiseon1)
+Please see screenshots below of the deployed site:
+ 
+![Image description](./images/horiseon1.png)
 
-![Image description](./images/horiseon2)
+![Image description](./images/horiseon2.png)
